@@ -1,9 +1,12 @@
-[{
-  "id": 1,
-  "pregunta": "¿Sos humano?"
-  "respuesta": "false"
-},{
-  "id": 2,
-  "pregunta": "¿Sos dinosaurio?"
-  "respuesta": "true"
-}]
+[
+  {
+    "id": 1,
+    "pregunta": "¿Sos humano?"
+    "respuesta": "false"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Sos dinosaurio?"
+    "respuesta": "true"
+  }
+]
