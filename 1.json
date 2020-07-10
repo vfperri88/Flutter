@@ -1,5 +1,9 @@
-{
-  "userId": 1,
+[{
   "id": 1,
-  "title": "quidem molestiae enim"
-}
+  "pregunta": "¿Sos humano?"
+  "respuesta": "false"
+},{
+  "id": 2,
+  "pregunta": "¿Sos dinosaurio?"
+  "respuesta": "true"
+}]
