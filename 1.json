@@ -2,91 +2,91 @@
   {
     "id": 1,
     "pregunta": "Sos dinosaurio 1",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 2,
     "pregunta": "Sos dinosaurio 2",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 3,
     "pregunta": "Sos dinosaurio 3",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 4,
     "pregunta": "Sos dinosaurio 4",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 5,
     "pregunta": "Sos dinosaurio 5",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 6,
     "pregunta": "Sos dinosaurio 6",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 7,
     "pregunta": "Sos dinosaurio 7",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 8,
     "pregunta": "Sos dinosaurio 8",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 9,
     "pregunta": "Sos dinosaurio 9",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 10,
     "pregunta": "Sos dinosaurio 10",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 11,
     "pregunta": "Sos dinosaurio 11",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 12,
     "pregunta": "Sos dinosaurio 12",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 13,
     "pregunta": "Sos dinosaurio 13",
-    "respuesta": "true"
+    "respuesta": true
   },
   {
     "id": 14,
     "pregunta": "Sos dinosaurio 14",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 15,
     "pregunta": "Sos dinosaurio 15",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 16,
     "pregunta": "Sos dinosaurio 16",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 17,
     "pregunta": "Sos dinosaurio 17",
-    "respuesta": "false"
+    "respuesta": false
   },
   {
     "id": 18,
     "pregunta": "Sos dinosaurio 18",
-    "respuesta": "false"
+    "respuesta": false
   }
 ]
