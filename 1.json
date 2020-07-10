@@ -1,12 +1,42 @@
 [
   {
     "id": 1,
-    "pregunta": "Sos humano",
+    "pregunta": "Sos dinosaurio 1",
     "respuesta": "false"
   },
   {
     "id": 2,
-    "pregunta": "Sos dinosaurio",
+    "pregunta": "Sos dinosaurio 2",
+    "respuesta": "true"
+  },
+  {
+    "id": 3,
+    "pregunta": "Sos dinosaurio 3",
+    "respuesta": "true"
+  },
+  {
+    "id": 4,
+    "pregunta": "Sos dinosaurio 4",
+    "respuesta": "true"
+  },
+  {
+    "id": 5,
+    "pregunta": "Sos dinosaurio 5",
+    "respuesta": "true"
+  },
+  {
+    "id": 6,
+    "pregunta": "Sos dinosaurio 6",
+    "respuesta": "true"
+  },
+  {
+    "id": 7,
+    "pregunta": "Sos dinosaurio 7",
+    "respuesta": "true"
+  },
+  {
+    "id": 8,
+    "pregunta": "Sos dinosaurio 8",
     "respuesta": "true"
   }
 ]
