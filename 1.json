@@ -2,91 +2,109 @@
   {
     "id": 1,
     "pregunta": "¿Sos dinosaurio 1?",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 2,
     "pregunta": "Sos dinosaurio 2",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 3,
     "pregunta": "Sos dinosaurio 3",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 4,
     "pregunta": "Sos dinosaurio 4",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 5,
     "pregunta": "Sos dinosaurio 5",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 6,
     "pregunta": "Sos dinosaurio 6",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 7,
     "pregunta": "Sos dinosaurio 7",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 8,
     "pregunta": "Sos dinosaurio 8",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 9,
     "pregunta": "Sos dinosaurio 9",
-    "respuesta": true
+    "respuestaDefault": true
+    "respuestaCorrecta": true
   },
   {
     "id": 10,
     "pregunta": "Sos dinosaurio 10",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 11,
     "pregunta": "Sos dinosaurio 11",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 12,
     "pregunta": "Sos dinosaurio 12",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 13,
     "pregunta": "Sos dinosaurio 13",
-    "respuesta": true
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 14,
     "pregunta": "Sos dinosaurio 14",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 15,
     "pregunta": "Sos dinosaurio 15",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 16,
     "pregunta": "Sos dinosaurio 16",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   },
   {
     "id": 17,
     "pregunta": "Sos dinosaurio 17",
-    "respuesta": false
+    "respuestaDefault": true
+    "respuestaCorrecta": true
   },
   {
     "id": 18,
     "pregunta": "Sos dinosaurio 18",
-    "respuesta": false
+    "respuestaDefault": false
+    "respuestaCorrecta": false
   }
 ]
