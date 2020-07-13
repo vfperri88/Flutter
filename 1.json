@@ -1,126 +1,35 @@
 [
   {
     "id": 1,
-    "pregunta": "¿Sos dinosaurio 1?",
+    "pregunta": "¿Tuvo Fiebre (mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 2,
-    "pregunta": "Sos dinosaurio 2",
+    "pregunta": "¿Presenta pérdida del olfato y/o alteraciones en el gusto en las últimas 24hs?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 3,
-    "pregunta": "Sos dinosaurio 3",
+    "pregunta": "¿Convive con alguna persona con diagnóstico Coronavirus o tuvo contacto cercano con alguien que está cursando dicha enfermedad?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 4,
-    "pregunta": "Sos dinosaurio 4",
+    "pregunta": "¿Fue diagnosticado con Coronavirus y aún no tiene alta médica?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 5,
-    "pregunta": "Sos dinosaurio 5",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 6,
-    "pregunta": "Sos dinosaurio 6",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 7,
-    "pregunta": "Sos dinosaurio 7",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 8,
-    "pregunta": "Sos dinosaurio 8",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 9,
-    "pregunta": "Sos dinosaurio 9",
-    "aclaracion": "",
-    "respuestaDefault": true,
-    "respuestaCorrecta": true
-  },
-  {
-    "id": 10,
-    "pregunta": "Sos dinosaurio 10",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 11,
-    "pregunta": "Sos dinosaurio 11",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 12,
-    "pregunta": "Sos dinosaurio 12",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 13,
-    "pregunta": "Sos dinosaurio 13",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 14,
-    "pregunta": "Sos dinosaurio 14",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 15,
-    "pregunta": "Sos dinosaurio 15",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 16,
-    "pregunta": "Sos dinosaurio 16",
-    "aclaracion": "",
-    "respuestaDefault": false,
-    "respuestaCorrecta": false
-  },
-  {
-    "id": 17,
-    "pregunta": "Sos dinosaurio 17",
-    "aclaracion": "",
-    "respuestaDefault": true,
-    "respuestaCorrecta": true
-  },
-  {
-    "id": 18,
-    "pregunta": "Sos dinosaurio 18",
+    "pregunta": "¿Usted ha tenido contacto con alguna persona que estuvo en el exterior en los últimos 15 días?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
