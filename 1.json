@@ -1,36 +1,36 @@
 [
   {
     "id": 1,
-    "pregunta": "¿Tuvo Fiebre (mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
-    "aclaracion": "",
+    "pregunta": "Pregunta 1:",
+    "aclaracion": "¿Tuvo Fiebre (mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 2,
-    "pregunta": "¿Presenta pérdida del olfato y/o alteraciones en el gusto en las últimas 24hs?",
-    "aclaracion": "",
+    "pregunta": "Pregunta 2:",
+    "aclaracion": "¿Presenta pérdida del olfato y/o alteraciones en el gusto en las últimas 24hs?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 3,
-    "pregunta": "¿Convive con alguna persona con diagnóstico Coronavirus o tuvo contacto cercano con alguien que está cursando dicha enfermedad?",
-    "aclaracion": "",
+    "pregunta": "Pregunta 3:",
+    "aclaracion": "¿Convive con alguna persona con diagnóstico Coronavirus o tuvo contacto cercano con alguien que está cursando dicha enfermedad?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 4,
-    "pregunta": "¿Fue diagnosticado con Coronavirus y aún no tiene alta médica?",
-    "aclaracion": "",
+    "pregunta": "Pregunta 4:",
+    "aclaracion": "¿Fue diagnosticado con Coronavirus y aún no tiene alta médica?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
   {
     "id": 5,
-    "pregunta": "¿Usted ha tenido contacto con alguna persona que estuvo en el exterior en los últimos 15 días?",
-    "aclaracion": "",
+    "pregunta": "Pregunta 5:",
+    "aclaracion": "¿Usted ha tenido contacto con alguna persona que estuvo en el exterior en los últimos 15 días?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   }
