@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "pregunta": '''Content-Type: text/html; charset=utf-8\nMIME-Version: 1.0\nContent-Transfer-Encoding: 7bit\nto: user2@domain\nsender: user@domain\nsubject: API test Dart\n\nHi<br/>Html <b>Email</b><br><br>gfdgdfgdfg''',
+    "pregunta": "<b>This text is bold</b>",
     "aclaracion": "¿Tuvo Fiebre <b>Email</b>(mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
