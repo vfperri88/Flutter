@@ -2,7 +2,7 @@
   {
     "id": 1,
     "pregunta": "Pregunta 1:",
-    "aclaracion": "¿Tuvo Fiebre (mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
+    "aclaracion": "¿Tuvo Fiebre <b>Email</b>(mayor a 37,5°) en la últimas 24hs y alguno de los siguientes síntomas: dolor de garganta, tos dificultad respiratoria?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
   },
