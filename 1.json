@@ -43,7 +43,7 @@
   },
   {
     "id": 7,
-    "pregunta": "¿Vivís con alguien que fue <b>hisopado</b> o es <b>caso positivo</b>?",
+    "pregunta": "¿Tuviste contacto con un caso <b>sospechoso</b> o <b>confirmado</b> de Covid-19?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
