@@ -40,5 +40,12 @@
     "aclaracion": "¿Tenés <b>dolor de garganta</b>?",
     "respuestaDefault": false,
     "respuestaCorrecta": false
+  },
+  {
+    "id": 7,
+    "pregunta": "Pregunta N° 7:",
+    "aclaracion": "¿Vivís con alguien que fue <b>hisopado</b> o es <b>caso positivo</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
   }
 ]
