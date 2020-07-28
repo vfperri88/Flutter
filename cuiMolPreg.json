@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Tenés <b>tos</b>?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Tenés <b>fiebre</b>? (más de 37,5 °C)",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Sentís que <b>perdiste</b> de manera repentina el <b>olfato</b>?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Sentís que <b>perdiste</b> de manera repentina el <b>gusto</b>?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Sentís que te <b>falta el aire</b> y/o tenés <b>problemas para respirar</b>?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Tenés <b>dolor de garganta</b>?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Tuviste contacto con un caso <b>sospechoso</b> o <b>confirmado</b> de Covid-19?",
+    "aclaracion": "",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  }
+]
