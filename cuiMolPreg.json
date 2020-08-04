@@ -43,7 +43,7 @@
   },
   {
     "id": 7,
-    "pregunta": "¿Tuviste contacto con un caso <b>sospechoso</b> o <b>confirmado</b> de Covid-19?",
+    "pregunta": "¿Tuviste contacto con un caso <b>sospechoso</b> o <b>confirmado</b>?",
     "aclaracion": "",
     "respuestaDefault": false,
     "respuestaCorrecta": false
