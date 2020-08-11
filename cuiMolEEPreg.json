@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Pregunta 1:",
+    "aclaracion": "¿Tenés <b>tos</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 2,
+    "pregunta": "Pregunta 2:",
+    "aclaracion": "¿Tenés <b>fiebre</b>? (más de 37,5 °C)",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 3,
+    "pregunta": "Pregunta 3:",
+    "aclaracion": "¿Sentís que <b>perdiste</b> de manera repentina el <b>olfato</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 4,
+    "pregunta": "Pregunta 4:",
+    "aclaracion": "¿Sentís que <b>perdiste</b> de manera repentina el <b>gusto</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 5,
+    "pregunta": "Pregunta 5:",
+    "aclaracion": "¿Sentís que te <b>falta el aire</b> y/o tenés <b>problemas para respirar</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 6,
+    "pregunta": "Pregunta 6:",
+    "aclaracion": "¿Tenés <b>dolor de garganta</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 7,
+    "pregunta": "Pregunta 7:",
+    "aclaracion": "¿Tenés <b>dolor de cabeza</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 8,
+    "pregunta": "Pregunta 8:",
+    "aclaracion": "¿Tenés <b>diarrea</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 9,
+    "pregunta": "Pregunta 9:",
+    "aclaracion": "¿Tenés <b>vómitos</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  },
+  {
+    "id": 10,
+    "pregunta": "Pregunta 10:",
+    "aclaracion": "¿Tuviste contacto con un caso <b>sospechoso</b> o <b>confirmado</b>?",
+    "respuestaDefault": false,
+    "respuestaCorrecta": false
+  }
+]
